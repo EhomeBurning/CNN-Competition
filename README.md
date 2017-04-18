@@ -1,1 +1,1 @@
-# CNN-Compititin
+# CNN-Competition
